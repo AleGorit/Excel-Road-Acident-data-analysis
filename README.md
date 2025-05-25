@@ -10,7 +10,7 @@ This project presents an Excel-based dashboard designed to analyze road accident
 ## 🎯 Objectives
 
 * Clean the raw data to make it ready for analysis.
-* Used pivot tables to analyze road accident data to identify trends and patterns.
+* Use pivot tables to analyze road accident data to identify trends and patterns.
 * Visualize key metrics such as total casualties, accident severity, and monthly trends.
 * Provide a user-friendly dashboard for stakeholders to interact with the data.
 
