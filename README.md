@@ -2,6 +2,9 @@
 
 This project presents an Excel-based dashboard designed to analyze road accident data from 2021 to 2022. The dashboard offers insights into various metrics, aiding stakeholders in understanding accident patterns and making informed decisions to enhance road safety.
 
+![Visualization sample by Alex_Gori](https://github.com/user-attachments/assets/a6cd02f8-e309-4fe1-88bb-9df5020b0207)
+
+
 ## 📁 Repository Contents
 
 * Road Accident Raw Data.xlsx: Contains the raw dataset of road accidents for 2021 and 2022.
